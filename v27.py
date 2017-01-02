@@ -1,6 +1,8 @@
+#!python3
+#coding: utf-8
 #-------------------------------------------------------------------------------
 # Project   : 381
-# Language  : Python
+# Language  : Python (3.X)
 # Name      : Internet Connectivity Monitor
 # Purpose   : A small script I use to make sure I immediately know when my internet connection goes down.
 #           : Very handy when playing online or talking with people on TeamSpeak/Mumble/Skype
