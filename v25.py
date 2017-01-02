@@ -1,3 +1,17 @@
+#-------------------------------------------------------------------------------
+# Project	: 381
+# Language	: Python
+# Name		: Internet Connectivity Monitor
+# Purpose	: A small script I use to make sure I immediately know when my internet connection goes down.
+#			  Very handy when playing online or talking with people on TeamSpeak/Mumble/Skype
+#
+# Version	: 26
+# Authors   : Knarkoffer
+# Created   : 2016
+# Site		: https://github.com/Knarkoffer/
+# Licence   : MIT
+#-------------------------------------------------------------------------------
+
 import subprocess
 import time
 import winsound
